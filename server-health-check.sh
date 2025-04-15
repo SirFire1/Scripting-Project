@@ -1,5 +1,3 @@
-#Bash Script
-```bash
 #!/bin/bash
 
 # Server Health Investigation Script
